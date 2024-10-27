@@ -1,0 +1,5 @@
+[
+  {"id":  99, "name": "Fluffy", "age": 5, "sex": "MALE", "owner": "Sarah"},
+  {"id":  100, "name": "Oliver", "age": 12, "sex": "MALE", "owner": "Sarah"},
+  {"id":  101, "name": "Luna", "age": 7, "sex": "FEMALE", "owner": "Sarah"}
+]
